@@ -1,3 +1,3 @@
 # ekzamen
 
-#https://kirikay1.github.io/ekzamen/dz/
+# https://kirikay1.github.io/ekzamen/dz/
